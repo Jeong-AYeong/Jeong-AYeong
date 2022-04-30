@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Joung-AYoung
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 연락 방법 ...jyy1401@naver.com
-- ❤️ I'm a freshman in university.
+- ❤️ I'm a undergraduate.
 - 💻 My major is Artificial Intelligence.
 - ✨
 - 🥇
