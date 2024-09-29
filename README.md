@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jeong-AYeong
-- 👀 I’m interested in ...Multimodal learning, Computer vision
+- 👀 I’m interested in Multimodal learning, Computer vision
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 contact me ...jyy1401@naver.com
+- 📫 contact me jyy1401@naver.com
 - ❤️ I'm a undergraduate.
 - 💻 My major is Artificial Intelligence.
 - ✨
