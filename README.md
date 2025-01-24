@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me jyy1401@naver.com
-- ❤️ I'm a undergraduate.
+- ❤️ I'm interning at KAIST's VML lab.
 - 💻 My major is Artificial Intelligence.
 - ✨
 - 🥇
