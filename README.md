@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Jeong-AYeong
-- 👀 I’m interested in Multimodal learning, Computer vision
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 contact me jyy1401@naver.com
-- ❤️ I'm interning at KAIST's VML lab.
+- 👀 I’m interested in Facial animation, Computer graphics, Computer vision
+- 🌱 I’m currently learning 3DGS Head Avatar
+- 📫 contact me jyy1401@kaist.ac.kr
+- ❤️ I'm a Master's student at KAIST's VML lab.
 - 💻 My major is Artificial Intelligence.
 - ✨
 - 🥇
+- 💞️
 
 <!---
 joung-Ayoung/joung-Ayoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
